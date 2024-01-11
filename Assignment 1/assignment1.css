@@ -1,0 +1,22 @@
+#heading{
+    background-color: rgb(65, 163, 224);
+    color: rgb(12, 12, 145);
+    text-transform: capitalize;
+    font-size: 50px;
+}
+.one{
+    color: purple;
+    font-size: 35px;
+    text-transform: capitalize;
+}
+.two{
+    background-color: yellow;
+    color: orange;
+    text-transform: capitalize;
+    font-size: 25px;
+}
+.three{
+    background-color: rgb(132, 194, 132);
+    font-size: 22px;
+    text-transform: capitalize;
+}

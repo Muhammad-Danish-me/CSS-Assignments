@@ -1,0 +1,26 @@
+*{
+    background-color: rgb(206, 206, 206);
+}
+
+.main{
+    background-color: antiquewhite;
+    color: brown;
+    font-size: 50px;
+}
+p{
+ color: gray;
+ font-size: 30px;
+}
+span{
+    background-color: wheat;
+    color:green;
+}
+.inner{
+    background-color: rgb(255, 255, 255);
+    color: orange;
+    font-size: 33px;
+}
+li{
+    font-size: 35px;
+    color: rgb(110, 105, 105);
+}
